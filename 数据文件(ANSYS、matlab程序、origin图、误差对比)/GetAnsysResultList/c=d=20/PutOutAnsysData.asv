@@ -1,0 +1,43 @@
+fin_save=fopen('SaveAllDate.txt','w');
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%获得全部节点坐标
+fem_read=fopen('result.txt','r');
+counter=1;
+node=[];
+buff=fscanf(fem_read,'%s',1);
+while ~feof(fem_read)
+    if(strcmp(buff,'TEMP')==1)              %NODE        X           Y           Z         THXY    THYZ    THZX 数据上第一行最后一个单词
+        while(strcmp(buff,'NODE')~=1)   %数据上第一行第一个单词
+                buff=fscanf(fem_read,'%s',1);
+                if(feof(fem_read)==1)
+                    break;
+                end;
+                if(strcmp(buff,'NODE')~=1)
+                            node(counter,1)=str2num(buff);
+                         
+                                node(counter,2)=fscanf(fem_read,'%f',1);
+                              
+                         
+                            
+                            counter=counter+1;
+                end;
+        end;
+        
+    end;
+    if(feof(fem_read)==1)
+            break;
+            end;
+buff=fscanf(fem_read,'%s',1);  
+end;
+[N_node,dummy]=size(node);
+fprintf( fin_save,'%d\n',N_node);
+zzzz=node;
+fprintf( fin_save,'%d   %f  %f\n',node');
+fprintf( fin_save,'\n');
+fclose(fem_read);
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+fclose(fin_save);
+
+
+         

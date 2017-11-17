@@ -1,0 +1,5 @@
+*dim,AA,,1008,1
+*cfopen,KKDate,dat
+*vread,AA,KKDate,dat,,,
+(1f10.4)
+*cfclos

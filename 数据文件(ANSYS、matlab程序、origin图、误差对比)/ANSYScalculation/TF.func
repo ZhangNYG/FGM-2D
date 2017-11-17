@@ -1,0 +1,58 @@
+<EquationData ANSYS=121>
+
+<Comments>
+
+</Comments>
+
+   <RegimeParameter>
+      &lt;Regime Var&gt;
+   </RegimeParameter>
+
+   <AngularUnits type="0">
+!      0 = radian, 1 = degrees
+   </AngularUnits>
+   <CoordinateSystem type="0">
+   </CoordinateSystem>
+
+   <FunctionType type="SINGLE">
+   </FunctionType>
+
+   <Regime tab="0">
+      <TabTitle>
+         Function
+      </TabTitle>
+      <Equation>
+          300*sin(PI*{X}/0.02)+300
+      </Equation>
+      <MaterialId active="0">
+      </MaterialId>
+   </Regime>
+
+</EquationData>
+
+<!--
+!
+! ANSYS input
+!
+:FUNC
+*DIM,%_FNCNAME%,TABLE,6,10,1,,,,%_FNCCSYS%
+!
+! Begin of equation: 300*sin(PI*{X}/0.02)+300
+%_FNCNAME%(0,0,1)= 0.0, -999
+%_FNCNAME%(2,0,1)= 0.0
+%_FNCNAME%(3,0,1)= 0.0
+%_FNCNAME%(4,0,1)= 0.0
+%_FNCNAME%(5,0,1)= 0.0
+%_FNCNAME%(6,0,1)= 0.0
+%_FNCNAME%(0,1,1)= 1.0, -1, 0, 3.14159265358979310, 0, 0, 2
+%_FNCNAME%(0,2,1)= 0.0, -2, 0, 1, -1, 3, 2
+%_FNCNAME%(0,3,1)=   0, -1, 0, 0.02, 0, 0, -2
+%_FNCNAME%(0,4,1)= 0.0, -3, 0, 1, -2, 4, -1
+%_FNCNAME%(0,5,1)= 0.0, -1, 9, 1, -3, 0, 0
+%_FNCNAME%(0,6,1)= 0.0, -2, 0, 300, 0, 0, -1
+%_FNCNAME%(0,7,1)= 0.0, -3, 0, 1, -2, 3, -1
+%_FNCNAME%(0,8,1)= 0.0, -1, 0, 300, 0, 0, -3
+%_FNCNAME%(0,9,1)= 0.0, -2, 0, 1, -3, 1, -1
+%_FNCNAME%(0,10,1)= 0.0, 99, 0, 1, -2, 0, 0
+! End of equation: 300*sin(PI*{X}/0.02)+300
+!-->

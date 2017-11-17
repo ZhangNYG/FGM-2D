@@ -1,0 +1,11 @@
+
+
+
+ SOLUTION HISTORY INFORMATION FOR JOB: TTTjunyun111.mntr                                                                                                                                                                                                                                                   
+ ANSYS RELEASE 12.1                     16:02:10    05/26/2016
+
+ LOAD  SUB-  NO.   NO.  TOTL   INCREMENT    TOTAL       VARIAB 1    VARIAB 2    VARIAB 3
+ STEP  STEP  ATTMP ITER ITER   TIME/LFACT   TIME/LFACT  MONITOR     MONITOR     MONITOR
+                                                        CPU         MxDs        MxPl
+
+   1      1    1     1     1    1.0000      1.0000     0.28125      391.12     0.78886E-30

@@ -1,0 +1,727 @@
+/COM,ANSYS RELEASE 12.1    UP20091102       12:58:49    05/25/2016
+
+ *** WARNING ***                         CP =       9.172   TIME= 13:08:13
+ NLIAT is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+/COM,ANSYS RELEASE 12.1    UP20091102       14:32:30    05/25/2016
+
+ *** WARNING ***                         CP =       4.156   TIME= 14:33:56
+ *VREAD end-of-file in data read.                                        
+
+ *** WARNING ***                         CP =       5.938   TIME= 14:36:10
+ MP is not a recognized BEGIN command, abbreviation, or macro.  This     
+ command will be ignored.                                                
+
+ *** WARNING ***                         CP =       5.969   TIME= 14:36:10
+ MP is not a recognized BEGIN command, abbreviation, or macro.  This     
+ command will be ignored.                                                
+
+ *** WARNING ***                         CP =       6.016   TIME= 14:36:10
+ MP is not a recognized BEGIN command, abbreviation, or macro.  This     
+ command will be ignored.                                                
+
+ *** WARNING ***                         CP =       6.047   TIME= 14:36:11
+ MP is not a recognized BEGIN command, abbreviation, or macro.  This     
+ command will be ignored.                                                
+
+ *** WARNING ***                         CP =       6.078   TIME= 14:36:11
+ MP is not a recognized BEGIN command, abbreviation, or macro.  This     
+ command will be ignored.                                                
+
+ *** WARNING ***                         CP =       6.125   TIME= 14:36:11
+ MP is not a recognized BEGIN command, abbreviation, or macro.  This     
+ command will be ignored.                                                
+
+ *** WARNING ***                         CP =       7.031   TIME= 14:36:33
+ /PREP is not a recognized BEGIN command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 26.   
+
+ *** WARNING ***                         CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 36.   
+
+ *** WARNING ***                         CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 940.  
+
+ *** WARNING ***                         CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 941.  
+
+ *** WARNING ***                         CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 942.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 943.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 944.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 945.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 946.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 947.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 948.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 949.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 950.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.219   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 951.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 952.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 953.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 954.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 955.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 956.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 957.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 958.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 959.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 960.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 961.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 962.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 963.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 964.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 965.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 966.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 2 are not transferred to unselected element 967.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 30.   
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 32.   
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 981.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 982.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 983.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 984.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 985.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 986.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 987.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 988.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 989.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 990.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 991.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 992.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 993.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 994.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 995.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 996.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 997.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 998.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 999.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1000. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1001. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1002. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1003. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1004. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1005. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1006. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.234   TIME= 14:46:52
+ Surface loads on line 4 are not transferred to unselected element 1007. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      16.266   TIME= 14:46:52
+ Out of the 1008 defined elements, only 1 elements are selected.         
+
+ *** WARNING ***                         CP =      18.656   TIME= 14:47:24
+ Element order list length 1 does not match number of selected elements  
+ 1008                                                                    
+  New order vector being created.                                        
+
+ *** WARNING ***                         CP =      27.609   TIME= 14:54:47
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   
+
+ *** WARNING ***                         CP =      38.625   TIME= 15:02:22
+ /PREP is not a recognized POST1 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      47.797   TIME= 15:07:09
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   
+
+ *** WARNING ***                         CP =      48.359   TIME= 15:07:18
+ Degree of freedom constraint TEMP from line 4 (1st value = 0) is        
+ overwriting a D on node 47 (1st value = 300) that was previously        
+ transferred from another DA, DL, or set of DK's.                        
+
+ *** WARNING ***                         CP =      48.359   TIME= 15:07:18
+ Degree of freedom constraint TEMP from line 4 (1st value = 0) is        
+ overwriting a D on node 1 (1st value = 300) that was previously         
+ transferred from another DA, DL, or set of DK's.                        
+
+ *** WARNING ***                         CP =      49.828   TIME= 15:07:46
+ /PREP is not a recognized POST1 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      53.594   TIME= 15:09:31
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =      56.562   TIME= 15:10:51
+ Degree of freedom constraint TEMP from line 1 (1st value = 300) is      
+ overwriting a D on node 1 (1st value = 0) that was previously           
+ transferred from another DA, DL, or set of DK's.                        
+
+ *** WARNING ***                         CP =      56.562   TIME= 15:10:51
+ Degree of freedom constraint TEMP from line 3 (1st value = 300) is      
+ overwriting a D on node 47 (1st value = 0) that was previously          
+ transferred from another DA, DL, or set of DK's.                        
+
+ *** WARNING ***                         CP =      56.562   TIME= 15:10:52
+ Degree of freedom constraint TEMP from line 4 (1st value = 0) is        
+ overwriting a D on node 47 (1st value = 300) that was previously        
+ transferred from another DA, DL, or set of DK's.                        
+
+ *** WARNING ***                         CP =      56.562   TIME= 15:10:52
+ Degree of freedom constraint TEMP from line 4 (1st value = 0) is        
+ overwriting a D on node 1 (1st value = 300) that was previously         
+ transferred from another DA, DL, or set of DK's.                        
+
+ *** WARNING ***                         CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 26.   
+
+ *** WARNING ***                         CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 36.   
+
+ *** WARNING ***                         CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 940.  
+
+ *** WARNING ***                         CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 941.  
+
+ *** WARNING ***                         CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 942.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 943.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 944.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 945.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 946.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 947.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 948.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 949.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 950.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 951.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 952.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 953.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 954.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 955.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 956.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 957.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 958.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 959.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 960.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 961.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 962.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 963.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 964.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 965.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 966.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 2 are not transferred to unselected element 967.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 30.   
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 32.   
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 981.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 982.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 983.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 984.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 985.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 986.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 987.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 988.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 989.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 990.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 991.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 992.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 993.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 994.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 995.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 996.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 997.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 998.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 999.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1000. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1001. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1002. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1003. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1004. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1005. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1006. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.344   TIME= 15:17:06
+ Surface loads on line 4 are not transferred to unselected element 1007. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      68.375   TIME= 15:17:06
+ Out of the 1008 defined elements, only 1 elements are selected.         
+
+ *** WARNING ***                         CP =      71.375   TIME= 15:17:52
+ Element order list length 1 does not match number of selected elements  
+ 1008                                                                    
+  New order vector being created.                                        
+/COM,ANSYS RELEASE 12.1    UP20091102       19:14:12    05/25/2016
+
+ *** ERROR ***                           CP =      18.781   TIME= 19:26:36
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+                                                                         
+  Previously saved files are unaffected.                                 
+/COM,ANSYS RELEASE 12.1    UP20091102       20:37:09    05/25/2016
+
+ *** WARNING ***                         CP =       3.016   TIME= 20:37:47
+ Cumulative iteration 1 may have been solved using different model or    
+ boundary condition data than currently stored.  POST1 results may be    
+ erroneous unless you RESUME from a Jobname.DB file for this substep.    
+/COM,ANSYS RELEASE 12.1    UP20091102       20:44:44    05/25/2016
+
+ *** WARNING ***                         CP =       2.141   TIME= 20:44:52
+ Cumulative iteration 1 may have been solved using different model or    
+ boundary condition data than currently stored.  POST1 results may be    
+ erroneous unless you RESUME from a Jobname.DB file for this substep.    
+
+ *** ERROR ***                           CP =       4.859   TIME= 20:46:11
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+                                                                         
+  Previously saved files are unaffected.                                 
+
+ *** ERROR ***                           CP =       4.969   TIME= 20:46:11
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+                                                                         
+  Previously saved files are unaffected.                                 
+/COM,ANSYS RELEASE 12.1    UP20091102       20:46:44    05/25/2016
+
+ *** ERROR ***                           CP =       2.016   TIME= 20:46:49
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+                                                                         
+  Previously saved files are unaffected.                                 
+
+ *** ERROR ***                           CP =       2.047   TIME= 20:46:49
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+                                                                         
+  Previously saved files are unaffected.                                 
+/COM,ANSYS RELEASE 12.1    UP20091102       20:47:15    05/25/2016
+
+ *** WARNING ***                         CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 26.   
+
+ *** WARNING ***                         CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 36.   
+
+ *** WARNING ***                         CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 940.  
+
+ *** WARNING ***                         CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 941.  
+
+ *** WARNING ***                         CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 942.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 943.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 944.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 945.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 946.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 947.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 948.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 949.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 950.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 951.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 952.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 953.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 954.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 955.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 956.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 957.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 958.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 959.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 960.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 961.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 962.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 963.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 964.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 965.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 966.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 2 are not transferred to unselected element 967.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 30.   
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 32.   
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 981.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 982.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 983.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 984.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 985.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 986.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 987.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 988.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 989.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 990.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 991.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 992.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 993.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 994.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 995.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 996.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 997.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 998.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 999.  
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1000. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1001. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1002. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1003. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1004. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1005. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1006. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.828   TIME= 20:52:00
+ Surface loads on line 4 are not transferred to unselected element 1007. 
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      11.875   TIME= 20:52:00
+ Out of the 1008 defined elements, only 1 elements are selected.         
+
+ *** WARNING ***                         CP =      14.844   TIME= 20:52:42
+ Element order list length 1 does not match number of selected elements  
+ 1008                                                                    
+  New order vector being created.                                        
+/COM,ANSYS RELEASE 12.1    UP20091102       14:54:05    05/26/2016
+/COM,ANSYS RELEASE 12.1    UP20091102       15:22:32    05/26/2016
+
+ *** WARNING ***                         CP =       8.594   TIME= 15:30:46
+ /PREP is not a recognized SOLUTION command, abbreviation, or macro.     
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.906   TIME= 15:32:25
+ EMODIF is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.922   TIME= 15:32:25
+ EMODIF is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.938   TIME= 15:32:25
+ EMODIF is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.969   TIME= 15:32:25
+ EMODIF is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.969   TIME= 15:32:25
+ EMODIF is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       9.984   TIME= 15:32:25
+ EMODIF is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** ERROR ***                           CP =      14.906   TIME= 15:35:31
+ Missing separator between two fields.                                   
+
+ *** ERROR ***                           CP =      14.984   TIME= 15:35:35
+ The above error occurred processing field= 1，5                        
+  Line= /CLABEL,1，5.                                                   
+/COM,ANSYS RELEASE 12.1    UP20091102       16:09:17    05/26/2016

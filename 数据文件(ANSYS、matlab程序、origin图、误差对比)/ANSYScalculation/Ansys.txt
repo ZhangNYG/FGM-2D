@@ -1,0 +1,62 @@
+/PMETH,OFF,0
+KEYW,PR_SET,1   
+KEYW,PR_STRUC,0 
+KEYW,PR_THERM,1 
+KEYW,PR_FLUID,0 
+KEYW,PR_ELMAG,0 
+KEYW,MAGNOD,0   
+KEYW,MAGEDG,0   
+KEYW,MAGHFE,0   
+KEYW,MAGELC,0   
+KEYW,PR_MULTI,0 
+KEYW,PR_CFD,0          !前处理
+ET,1,PLANE55		!定义单元类型
+
+MPTEMP,,,,,,,,  	!添加材料热导率
+MPTEMP,1,0  
+MP,KXX,2,3        !3为热导率的值  2为属性号
+
+
+*dim,AA,,1518,1
+*cfopen,date,dat
+*vread,AA,date,dat,,,
+(1f10.4)
+*cfclos
+
+*do,i,1,1518        
+mp,kxx,i,AA(i,1)  !热通量
+mp,DENS,i,BB(i,1) !密度
+mp,C,i,1000      !比热容
+*enddo  
+
+*do,i,1,1008        
+mp,kxx,i,AA(i,1)  !热通量
+
+*enddo  
+
+前处理命令
+/prep7   
+
+*do ,i,1,1008
+ESEL,S, , ,    i
+emodif,all,mat,i
+*enddo
+
+
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,DENS,1,,1000 
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,C,1,,1000
+
+
+*do ,i,1,820
+IC,i,TEMP,CC(i,1)
+*enddo
+
+
+mp,kxx,3000,1
+mp,DENS,3000,1000
+mp,C,3000,1000
+emodif,all,mat,3000
